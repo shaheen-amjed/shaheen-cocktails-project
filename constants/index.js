@@ -19,26 +19,26 @@ const navLinks = [
 
 const cocktailLists = [
  {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
+	name: "The shaheen cocktail 1",
+	country: "SD",
 	detail: "Battle",
 	price: "$10",
  },
  {
-	name: "Caten Malbee",
-	country: "AU",
+	name: "The shaheen cocktail 2",
+	country: "SD",
 	detail: "Battle",
 	price: "$49",
  },
  {
-	name: "Rhino Pale Ale",
-	country: "CA",
+	name: "The shaheen cocktail 3",
+	country: "SD",
 	detail: "750 ml",
 	price: "$20",
  },
  {
-	name: "Irish Guinness",
-	country: "IE",
+	name: "The shaheen cocktail 4",
+	country: "SD",
 	detail: "600 ml",
 	price: "$29",
  },
@@ -46,26 +46,26 @@ const cocktailLists = [
 
 const mockTailLists = [
  {
-	name: "Tropical Bloom",
-	country: "US",
+	name: "The shaheen mocktails 1",
+	country: "SD",
 	detail: "Battle",
 	price: "$10",
  },
  {
-	name: "Passionfruit Mint",
-	country: "US",
+	name: "The shaheen mocktails 2",
+	country: "SD",
 	detail: "Battle",
 	price: "$49",
  },
  {
-	name: "Citrus Glow",
-	country: "CA",
+	name: "The shaheen mocktails 3",
+	country: "SD",
 	detail: "750 ml",
 	price: "$20",
  },
  {
-	name: "Lavender Fizz",
-	country: "IE",
+	name: "The shaheen mocktails 4",
+	country: "SD",
 	detail: "600 ml",
 	price: "$29",
  },
@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "Shaheen's Mind only",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "+249 111111111",
+	email: "shaheen@sudan.com",
  },
 };
 
@@ -120,17 +120,17 @@ const socials = [
  {
 	name: "Instagram",
 	icon: "/images/insta.png",
-	url: "#",
+	url: "https://mostaql.com/u/shaheen_amjed/portfolio",
  },
  {
 	name: "X (Twitter)",
 	icon: "/images/x.png",
-	url: "#",
+	url: "https://mostaql.com/u/shaheen_amjed/portfolio",
  },
  {
 	name: "Facebook",
 	icon: "/images/fb.png",
-	url: "#",
+	url: "https://mostaql.com/u/shaheen_amjed/portfolio",
  },
 ];
 
